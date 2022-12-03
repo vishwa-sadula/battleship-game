@@ -30,18 +30,7 @@ As soon as all of one player's ships have been sunk, the game ends.
 
 ```
    A B C D E F G H I J
-   
  1 . . . . . . . . . .
- 
-git status
-git add
-git commit
-```
-
-   A B C D E F G H I J
-   
- 1 . . . . . . . . . .
- 
  2 A . . . . . . . . D
  
  3 A . . . . . . . . D
@@ -59,3 +48,5 @@ git commit
  9 C C . . . . . . . .
  
  10 . . . . . . . . . .
+ 
+```
