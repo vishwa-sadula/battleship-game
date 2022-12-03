@@ -1,6 +1,12 @@
 # BATTLESHIP GAME
 A console based 2-player game made using c++.
 
+
+## Game Rules
+
+The color **Blue** represents Player 1's turn.
+The color **Yellow** represents Player 2's turn.
+
 ### Game Objective
 The objective of Battleship is to try and sink all the other player's ships before they sink all your ships. All the 
 other player's ships are somewhere on his/her board. You try and hit them by calling out the
