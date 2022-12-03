@@ -1,7 +1,6 @@
-# battleship-game
-## A console based 2-player game made using c++
+# BATTLESHIP GAME
+A console based 2-player game made using c++.
 
-## Game Rules
 ### Game Objective
 The objective of Battleship is to try and sink all the other player's ships before they sink all your ships. All the 
 other player's ships are somewhere on his/her board. You try and hit them by calling out the
@@ -13,16 +12,13 @@ where they are.
 Each player places the 5 ships somewhere on their board. The ships can only be placed vertically or
 horizontally. Diagonal placement is not allowed. Ships cannot hang off the board, nor can they be placed
 one over another.
-
 Once the guessing begins, the players may not move the ships.
-
 The 5 ships are: Aircraft carrier (occupies 5 spaces), Battleship (4 spaces), Destroyer (3 spaces), Corvette
 (2 spaces) and Frigate (1 space)
 
 ### Guessing Phase
 Players take turns guessing by calling out the coordinates. The opponent responds with "hit" or "miss"
-as appropriate. The grids get updated as: H for hit, * for miss. 
-
+as appropriate. The grids get updated as: "H" for hit, "*" for miss. 
 _For example, if you call out F6 and your opponent does not have any ship located at F6, your opponent will respond
 with "miss". And the grid will be updated with * at F6._
 When all the squares that one of your ships occupies have been hit, the ship will be "hit and sunk" and represented with "S".
