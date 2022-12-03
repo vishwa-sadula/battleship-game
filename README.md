@@ -28,6 +28,16 @@ As soon as all of one player's ships have been sunk, the game ends.
 
 ### Your grid will look something like below:
 
+```
+   A B C D E F G H I J
+   
+ 1 . . . . . . . . . .
+ 
+git status
+git add
+git commit
+```
+
    A B C D E F G H I J
    
  1 . . . . . . . . . .
