@@ -29,13 +29,23 @@ As soon as all of one player's ships have been sunk, the game ends.
 ### Your grid will look something like below:
 
    A B C D E F G H I J
+   
  1 . . . . . . . . . .
+ 
  2 A . . . . . . . . D
+ 
  3 A . . . . . . . . D
+ 
  4 A . . . . . . . . D
+ 
  5 A . . . . . . . . D
+ 
  6 A B B B . . . . . .
+ 
  7 . . . . . . . . . .
+ 
  8 . . . . . . . E . .
+ 
  9 C C . . . . . . . .
+ 
  10 . . . . . . . . . .
