@@ -32,21 +32,12 @@ As soon as all of one player's ships have been sunk, the game ends.
    A B C D E F G H I J
  1 . . . . . . . . . .
  2 A . . . . . . . . D
- 
  3 A . . . . . . . . D
- 
- 4 A . . . . . . . . D
- 
- 5 A . . . . . . . . D
- 
- 6 A B B B . . . . . .
- 
+ 4 A . . . . . . . . .
+ 5 A . . . . . . . . .
+ 6 A B B B B . . . . .
  7 . . . . . . . . . .
- 
  8 . . . . . . . E . .
- 
- 9 C C . . . . . . . .
- 
+ 9 C C C . . . . . . .
  10 . . . . . . . . . .
- 
 ```
