@@ -19,7 +19,23 @@ The 5 ships are: Aircraft carrier (occupies 5 spaces), Battleship (4 spaces), De
 ### Guessing Phase
 Players take turns guessing by calling out the coordinates. The opponent responds with "hit" or "miss"
 as appropriate. The grids get updated as: "H" for hit, "*" for miss. 
+
 _For example, if you call out F6 and your opponent does not have any ship located at F6, your opponent will respond
 with "miss". And the grid will be updated with * at F6._
+
 When all the squares that one of your ships occupies have been hit, the ship will be "hit and sunk" and represented with "S".
 As soon as all of one player's ships have been sunk, the game ends.
+
+### Your grid will look something like below:
+
+   A B C D E F G H I J
+ 1 . . . . . . . . . .
+ 2 A . . . . . . . . D
+ 3 A . . . . . . . . D
+ 4 A . . . . . . . . D
+ 5 A . . . . . . . . D
+ 6 A B B B . . . . . .
+ 7 . . . . . . . . . .
+ 8 . . . . . . . E . .
+ 9 C C . . . . . . . .
+ 10 . . . . . . . . . .
